@@ -2,7 +2,7 @@
 迅投QMT python自动化交易
 
 ### 外部调用QMT内部函数 HTTP 封装 
-* [公众号文章链接](https://mp.weixin.qq.com/s/jw-lRvZQibP_GlgQQl9e7g)
+* [文章链接](./miniQMT停用后，外部调用QMT内部函数的路子.md)
 
 * QMT_HTTP_API封装.py：  复制到QMT运行，封装API服务
 
